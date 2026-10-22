@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E4\u041A\u0423\u0420\u0421\\YungmanPr6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{58B17CD8-01B3-4600-B848-094827A629D4}|YungmanPr6\\YungmanPr6.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E4\u043A\u0443\u0440\u0441\\yungmanpr6\\yungmanpr6\\controllers\\dopser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B17CD8-01B3-4600-B848-094827A629D4}|YungmanPr6\\YungmanPr6.csproj|solutionrelative:yungmanpr6\\controllers\\dopser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58B17CD8-01B3-4600-B848-094827A629D4}|YungmanPr6\\YungmanPr6.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E4\u043A\u0443\u0440\u0441\\yungmanpr6\\yungmanpr6\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58B17CD8-01B3-4600-B848-094827A629D4}|YungmanPr6\\YungmanPr6.csproj|solutionrelative:yungmanpr6\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,19 +51,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DopSer.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E4\u041A\u0423\u0420\u0421\\YungmanPr6\\YungmanPr6\\Controllers\\DopSer.cs",
+              "RelativeDocumentMoniker": "YungmanPr6\\Controllers\\DopSer.cs",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E4\u041A\u0423\u0420\u0421\\YungmanPr6\\YungmanPr6\\Controllers\\DopSer.cs",
+              "RelativeToolTip": "YungmanPr6\\Controllers\\DopSer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T05:46:03.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ServicesController.cs",
               "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E4\u041A\u0423\u0420\u0421\\YungmanPr6\\YungmanPr6\\Controllers\\ServicesController.cs",
               "RelativeDocumentMoniker": "YungmanPr6\\Controllers\\ServicesController.cs",
               "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E4\u041A\u0423\u0420\u0421\\YungmanPr6\\YungmanPr6\\Controllers\\ServicesController.cs",
               "RelativeToolTip": "YungmanPr6\\Controllers\\ServicesController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAqwFAAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T10:34:58.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E4\u041A\u0423\u0420\u0421\\YungmanPr6\\YungmanPr6\\Program.cs",
               "RelativeDocumentMoniker": "YungmanPr6\\Program.cs",
@@ -67,25 +84,23 @@
               "RelativeToolTip": "YungmanPr6\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T10:30:59.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T10:30:59.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E4\u041A\u0423\u0420\u0421\\YungmanPr6\\YungmanPr6\\Models\\Service.cs",
               "RelativeDocumentMoniker": "YungmanPr6\\Models\\Service.cs",
               "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E4\u041A\u0423\u0420\u0421\\YungmanPr6\\YungmanPr6\\Models\\Service.cs",
               "RelativeToolTip": "YungmanPr6\\Models\\Service.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T10:13:09.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T10:13:09.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "WebApiDatabaseContext.cs",
               "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E4\u041A\u0423\u0420\u0421\\YungmanPr6\\YungmanPr6\\Models\\WebApiDatabaseContext.cs",
               "RelativeDocumentMoniker": "YungmanPr6\\Models\\WebApiDatabaseContext.cs",
@@ -97,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E4\u041A\u0423\u0420\u0421\\YungmanPr6\\YungmanPr6\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "YungmanPr6\\WeatherForecast.cs",
@@ -109,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E4\u041A\u0423\u0420\u0421\\YungmanPr6\\YungmanPr6\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "YungmanPr6\\Controllers\\WeatherForecastController.cs",
@@ -121,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "YungmanPr6.csproj",
               "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E4\u041A\u0423\u0420\u0421\\YungmanPr6\\YungmanPr6\\YungmanPr6.csproj",
               "RelativeDocumentMoniker": "YungmanPr6\\YungmanPr6.csproj",

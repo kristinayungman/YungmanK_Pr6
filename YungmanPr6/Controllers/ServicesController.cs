@@ -61,7 +61,7 @@ namespace YungmanPr6.Controllers
             return NoContent();
         }
         [HttpPatch]//частичное изменение записи
-        public IActionResult Patch(int id, [FromBody] Service service)
+        public IActionResult Patch(int id, [FromBody] DopSer service)
         {
             var ser = _context.Services.Find(id);
             if (ser == null)
@@ -76,17 +76,17 @@ namespace YungmanPr6.Controllers
             {
                 ser.Description = service.Description;
             }
-            if (service.DurationMinutes!=0)
+            if (service.DurationMinutes.HasValue)
             {
-                ser.DurationMinutes = service.DurationMinutes;
+                ser.DurationMinutes = service.DurationMinutes.Value;
             }
-            if (service.Price != 0)
+            if (service.Price.HasValue)
             {
-                ser.Price = service.Price;
+                ser.Price = service.Price.Value;
             }
-            if (service.IsActive != null)
+            if (service.IsActive.HasValue)
             {
-                ser.IsActive = service.IsActive;
+                ser.IsActive = service.IsActive.Value;
             }
             _context.SaveChanges();
             return Ok(ser);

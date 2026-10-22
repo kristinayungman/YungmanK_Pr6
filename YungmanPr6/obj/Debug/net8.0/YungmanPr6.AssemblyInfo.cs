@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YungmanPr6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9db0b5c62a6eaf847cd435f7151cebdeda6ece68")]
 [assembly: System.Reflection.AssemblyProductAttribute("YungmanPr6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YungmanPr6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

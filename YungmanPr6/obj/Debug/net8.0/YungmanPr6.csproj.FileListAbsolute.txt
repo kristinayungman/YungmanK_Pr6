@@ -142,3 +142,4 @@ C:\пр31Гариев\ТРПО4КУРС\YungmanPr6\YungmanPr6\obj\Debug\net8.0\r
 C:\пр31Гариев\ТРПО4КУРС\YungmanPr6\YungmanPr6\obj\Debug\net8.0\YungmanPr6.pdb
 C:\пр31Гариев\ТРПО4КУРС\YungmanPr6\YungmanPr6\obj\Debug\net8.0\YungmanPr6.genruntimeconfig.cache
 C:\пр31Гариев\ТРПО4КУРС\YungmanPr6\YungmanPr6\obj\Debug\net8.0\ref\YungmanPr6.dll
+C:\пр31Гариев\ТРПО4КУРС\YungmanPr6\YungmanPr6\obj\Debug\net8.0\YungmanPr6.sourcelink.json
